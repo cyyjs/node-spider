@@ -1,6 +1,6 @@
 {
   "name": "node-spider",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,6 @@
     "type": "git",
     "url": "git@git.yunpro.cn:adverpro/adpro-dsp-node-spider.git"
   },
-  "author": "",
+  "author": "cyy",
   "license": "ISC"
 }

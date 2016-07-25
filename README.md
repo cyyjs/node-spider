@@ -5,11 +5,11 @@
 var Spider = require("../");
 
 var oOptions = {
-    domain: 'yrw.com', //抓取网站的域名
-    firstUrl: 'https://www.yrw.com/landing/page/sixRites?trackid=GGJ_xkzx_PC002', //抓取的初始URL地址
+    domain: 'xx.com', //抓取网站的域名
+    firstUrl: 'https://www.xxx.com/xxx', //抓取的初始URL地址
     saveDir: "", //抓取内容保存目录 ,默认不保存文件
     debug: false, //是否开启调试模式
-    matchStr: "conversion.adpro.cn", //匹配字符串
+    matchStr: "xxxx", //匹配字符串
     whiteTypeList:["html","javascript"],        //爬取文件白名单,默认全部
 };
 var o = new Spider(oOptions);
