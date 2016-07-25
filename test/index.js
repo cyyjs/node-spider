@@ -6,7 +6,7 @@ var oOptions = {
 	saveDir: "", //抓取内容保存目录
 	debug: false, //是否开启调试模式
 	matchStr: "conversion.adpro.cn", //匹配字符串
-	whiteTypeList:["html","javascript"],		//爬取文件白名单
+	//whiteTypeList:["html","javascript"],		//爬取文件白名单
 };
 var o = new Spider(oOptions);
 o.crawl(function(result) {//开始抓取
