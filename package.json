@@ -1,0 +1,15 @@
+{
+  "name": "adpro-dsp-node-spider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.yunpro.cn:adverpro/adpro-dsp-node-spider.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
