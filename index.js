@@ -8,7 +8,7 @@ var https = require('https');
 var url = require('url');
 var path = require('path');
 
-var analyse = require('./analyse');
+//var analyse = require('./analyse');
 
 /**
  * [Url 功能模块]
