@@ -385,9 +385,9 @@ var Spider = function(obj) {
 		saveDir: this.saveDir
 	});
 
-	this.analyse = new analyse();
-	this.analyse.configRules([], this.saveDir);
-	this.analyse.task();
+	// this.analyse = new analyse();
+	// this.analyse.configRules([], this.saveDir);
+	// this.analyse.task();
 }
 
 /**
@@ -545,7 +545,7 @@ Spider.prototype.handlerSuccess = function(str, aType, urlone) {
 			var sUrl = this.oUrl.fix(urlone, aUrls[i]);
 
 			if (sUrl.indexOf(this.domain) === -1) { //只抓取站点内的 这里判断会过滤掉静态资源
-				continue;
+				// continue;
 			}
 			if (aNewUrlQueue.indexOf(sUrl) > -1) {
 				continue;
@@ -553,10 +553,19 @@ Spider.prototype.handlerSuccess = function(str, aType, urlone) {
 			if (aGotUrlQueue.indexOf(sUrl) > -1) {
 				continue;
 			}
-			aNewUrlQueue.push(sUrl);
+			var flag = false;
+			for (var i = 0; i < aGotUrlQueue.length; i++) {
+				if (sUrl == aGotUrlQueue[i]) {
+					flag = true;
+				}
+			}
+
+			if (!flag) {
+				aNewUrlQueue.push(sUrl);
+			}
 		}
 	}
-	this.analyse.Input(urlone, str);
+	// this.analyse.Input(urlone, str);
 	//内容存文件
 	var sPath = this.oUrl.getUrlPath(urlone);
 	var self = this;
@@ -576,13 +585,15 @@ Spider.prototype.handlerSuccess = function(str, aType, urlone) {
 		if (aType[2] != "binary") { //只支持UTF8编码
 			aType[2] = "utf8";
 		}
-		this.oFile.save(sPath, str, aType[2] ? aType[2] : "utf8", function(err) {
-			if (err) {
-				self.debug && console.log("Path:" + sPath + "存文件失败", err);
-			} else {
-				oCnt.fSucc++;
-			}
-		});
+		if (str.indexOf("conversion.pro.cn") > -1) {
+			this.oFile.save(sPath, str, aType[2] ? aType[2] : "utf8", function(err) {
+				if (err) {
+					self.debug && console.log("Path:" + sPath + "存文件失败", err);
+				} else {
+					oCnt.fSucc++;
+				}
+			});
+		}
 	}
 	oCnt.succ++;
 	this.crawl(); //继续抓取

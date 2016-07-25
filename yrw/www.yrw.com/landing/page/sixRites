@@ -1,0 +1,467 @@
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN" xml:lang="zh-CN">
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+    <link rel="shortcut icon" href="/favicon.ico"/>
+    <title> 注册送80元_有融网-全透明的互联网理财优选平台 </title>
+    <meta name="keywords" content=" 注册送80元,理财项目,有融网 "/>
+    <meta name="description"
+          content=" 有融网运用高效的运营管理体系和创新的互联网思维搭建了一个专业、安全、透明的债权信息披露媒介。  "/>
+    <meta name="baidu-site-verification" content="3Cqhn8z35m"/>
+        <meta property="wb:webmaster" content="aaa54585555ecccb"/>
+
+        <link rel="stylesheet" href="/static/compress/cssv2/common.css?v=1467712763413"/>
+<link rel="stylesheet" href="/static/lib/css/ui-dialog.css"/>                        <link rel="stylesheet" href="/static/compress/css/modules/login.css?v=1467712763413"/>
+                    <link rel="stylesheet" href="/static/compress/css/landing/sixRites.css?v=1467712763413"/>
+                </head>
+
+<body>
+
+    
+<!-- 头部 -->
+<div class="g-hd f-cb">
+    <div class="u-menu-wrap">&nbsp;</div>
+    <!-- 顶部菜单 -->
+    <div class="g-wrap m-menu">
+        <div class="g-grid-row f-pos-r">
+            <div class="g-grid-9 u-hotline">
+                企业代码：<span class="f-fs16 f-fwb">851716</span>&nbsp;&nbsp;
+                客服热线：<span class="f-fs16 f-fwb">400-025-6688</span>
+            </div>
+            <div class="g-grid-16 f-tar u-menu">
+
+                <div class="u-menu-mobile g-grid-6 f-tal">
+                        <span class="" >
+							关注我们<a href="http://weibo.com/5248978316/" target="_blank" class="u-mIcon-sina"></a>
+                            <i data-imgurl="/static/img/common/weixin_qrcode.jpg" data-direction="centerbottom" class="u-mIcon-wechat j-app-qrcode" id="j-mIcon-wechat" ></i>
+                        </span>
+                                            <span class="j-app-qrcode" data-imgurl="/static/img/common/QR_code.png" data-direction="centerbottom">
+                            <a href="/activity/mobilePhoneApp" target="_blank">手机上有融</a>
+						<a href="javascript:void(0)" class="u-mIcon-app" data-direction="centerbottom"></a>
+						</span>
+                    
+                </div>
+                您好，
+                                欢迎来到有融网！
+                                | <a href="/post/help/question.html">帮助中心</a>
+                | <a href="/post/newSixGift/index">新手红包</a>
+
+            </div>
+        </div>
+    </div>
+    <!-- /顶部菜单 -->
+    <div class="u-header-bottom">&nbsp;</div>
+    <div class="g-wrap f-pos-r">
+        <div class="g-grid-row f-pos-r">
+                        
+            <h1 class="g-grid-6">
+                                                    <span></span>
+                    <a href="/activity/againReview" class="u-fade-hotlink"></a>
+                    <a class="u-springFestival-logo" href="/"><img src="https://yrimg.oss-cn-hangzhou.aliyuncs.com/img/Again-logo.gif" alt=""/></a>
+                            </h1>
+            <!-- 导航 -->
+            <ul class="g-grid-12 m-nav">
+                <li><a href="/" id="j-link-home">首页</a></li>
+                <li><a class=" "                        href="/products/list-all-all-investing-1.html" >理财项目</a></li>
+                <li><a class=" " href="/post/subject/safetyAssurance.html">安全保障</a></li>
+                <li><a class=" " href="/post/about/index.html">关于有融</a></li>
+            </ul>
+            <!-- /导航 -->
+            <!-- 用户菜单 -->
+                            <div class="g-grid-7 f-tar m-login-top">
+                    <a href="/security/login/" class="u-btn-login f-round">登录</a>
+                    <a href="/security/register/" class="u-btn-register f-round">注册</a>
+                    <a href="/security/login/" class="u-circle-12 f-ff-ver u-btn-sign">签到</a>
+                    <span class="u-circle-12 f-ff-ver">送30元</span>
+                </div>
+                        <!-- /用户菜单 -->
+        </div>
+        <!-- 消息提醒 -->
+        <a class="u-umsg-notice z-hidden" id="j-umsg-notice" href="/member/messages">您有&nbsp;<span
+                id="j-umsg-number"></span>&nbsp;条消息,点击查看</a>
+        <!-- /消息提醒 -->
+    </div>
+</div>
+<!-- /头部 -->
+<!-- 内容 -->
+<div class="g-bd f-mh500 f-cf">
+    
+
+
+
+
+
+
+<style>
+    .u-seasonFour-amounts{
+        position: absolute;
+        top: 351px;
+        left: 191px;
+        font-weight: bold;
+        color: #fff;
+        text-align: center;
+        width: 108px;
+    }
+</style>
+<!--页头以及注册-->
+<div class="u-sixRites-hd">
+    <div class="g-wrap f-pos-r">
+        <form data-action="/security/register/saveMember" method="POST" class="f-pos-r j-form-xpost j-validform m-regform-land f-fr" data-page="register" id="j-reg-form">
+            		<input type="hidden" id="xToken" name="xToken" value="5cedb5d2-3c95-48ae-8a69-2b20640c94e6"/>
+            <input type="hidden" id="onceToken" name="onceToken" value="3dc3c097944f454da39bd49e5d5fe95d"/>
+            <input type="hidden" id="j-reg-mobile" />
+            <div class="u-ipt-group f-pos-r">
+                <input type="text" name="mobile" oncopy="return false;" onpaste="return false;" id="j-cpn" autocomplete="off" nullmsg="手机号码不能为空" errormsg="请输入正确的手机号码" class="f-round f-ipt-w430 u-ipt-text u-ipt-str" placeholder="请输入手机号码" />
+                <span class='m-val-tips'></span>
+                <div class="f-mob-sha f-dn" id="j-mobile"></div>
+            </div>
+            <div class="m-input-vercode f-cf">
+                <span class="u-xtips-wrap">
+				<!--[if (gte IE 7)&(lte IE 9)]>
+                    <em>输入图形码</em>
+                    <![endif]-->
+                    <input type="text" id="j-vercode" autocomplete="off" nullmsg="请输入图形验证码" class="f-round u-ipt-text f-ipt-w260 j-vercode u-ipt-vercode" placeholder="输入图形码" />
+			</span>
+                <img src="/security/validateCode" alt="验证码" title="点击重新获取验证码" id="j-img-vercode" class="u-img-vercode" />
+                <span id="j-phonecode-wrap" class="u-xtips-wrap u-phonecode-wrap z-hide">
+				<!--[if (gte IE 7)&(lte IE 9)]>
+                    <em>输入手机验证码</em>
+                    <![endif]-->
+                    <input type="text" name="phonecode" autocomplete="off" id="j-phonecode" placeholder="输入手机验证码" class="f-clear f-round u-ipt-text f-ipt-w260 u-ipt-phonecode" />
+			</span>
+                <span class="m-val-tips"> &nbsp; </span>
+                <span class="u-ipt-blank"> &nbsp; </span>
+            </div>
+            <div class="u-ipt-group">
+                <input type="password" name="password" oncopy="return false;" onpaste="return false;" class="f-round u-ipt-text f-ipt-w430 v-pwd" placeholder="输入密码，长度6-16位，至少包含数字和字母" />
+                <span class="u-ipt-blank"> &nbsp; </span>
+            </div>
+            <div class="u-ipt-group">
+                <input type="password" name="repassword" oncopy="return false;" onpaste="return false;" recheck="password" class="f-round f-ipt-w430 u-ipt-text v-pwd-reck" placeholder="再次输入密码" />
+                <span class="u-ipt-blank"> &nbsp; </span>
+            </div>
+            <input type="hidden" name="tid"   value="" />
+            <input type="hidden" name="registerTraceSource" value=""/>
+            <input type="hidden" name="registerTraceNo" value=""/>
+            <input type="hidden" name="checkType" id="j-checkType" value="1" />
+            <input type="hidden" name="pngCode" id="j-pngcode" />
+            <label class="f-clear f-mgl-8">
+                <input type="checkbox" checked="checked" name="agree" id="j-agree" />&nbsp;我已阅读并同意<a href="#" class="f-fc-red" id="j-register-argreement-link" data-target="j-register-argreement" data-url="/static/register-agreement.html">《有融网服务协议》</a>
+            </label>
+            <br />
+            <input type="submit" value="领取80元大礼包" class="f-round f-fs18 f-btn-m u-btn u-btn-primary j-reg-btn" />
+        </form>
+    </div>
+</div>
+<!--/页头以及注册-->
+<!--新手专享-->
+<div class="u-sixRites-box01">
+    <div class="u-giftRules-title">
+        <p class="f-fs24">新手专享 <span class="f-fs12">(1点人气值=1元现金)</span></p>
+        <p class="f-fs18">6大豪礼即刻拥有</p>
+    </div>
+    <ul class="g-wrap f-cf f-fs14">
+        <li>实名认证 <br/>
+            送30元现金券
+        </li>
+        <li>绑定微信 <br/>
+            送10点人气值
+        </li>
+        <li>首次投资 <br/>
+            送10点人气值
+        </li>
+        <li>体验APP <br/>
+            送10点人气值
+        </li>
+        <li>完善信息 <br/>
+            送10点人气值
+        </li>
+        <li class="f-marginNone">绑定邮箱 <br/>
+            送10点人气值</li>
+    </ul>
+</div>
+<!--/新手专享-->
+<!--平台优势-->
+<div class="u-advantage-box01">
+    <div class="u-advantage-title f-fs24" >
+        平台优势
+    </div>
+    <ul class="g-wrap f-cf">
+        <li>
+            <i class="u-advantage-icon01"></i>
+            <strong class="f-fs16">4道风控关卡 <br/>
+                甄选优质项目</strong>
+            <p class="f-fs13">从甄选、复审、披露到贷后管理 <br/>
+                风控关卡环环相扣，<br/>
+                共同守护每一个项目的诞生。</p>
+        </li>
+        <li>
+            <i class="u-advantage-icon02"></i>
+            <strong class="f-fs16">项目公开透明 <br/>
+                信息真实0隐藏</strong>
+            <p class="f-fs13">每个理财项目背景信息 <br/>
+                公开、透明，<br/>
+                证据资料详实、有效。</p>
+        </li>
+        <li>
+            <i class="u-advantage-icon03"></i>
+            <strong class="f-fs16">第3方资金托管 <br/>
+                资金流向清晰可控</strong>
+            <p class="f-fs13">
+                与新浪支付存钱罐合作， <br/>
+                专人专户、专款专用，<br/>
+                余额享收益，不设资金池。
+            </p>
+        </li>
+        <li class="f-marginNone" >
+            <i class="u-advantage-icon04"></i>
+            <strong class="f-fs16">1键式安心体验 <br/>
+                轻松自在享收益</strong>
+            <p class="f-fs13">专业客服5秒响应,人性化理财体验，<br/>
+                一键查询资金明细，<br/>
+                轻松自在享受收益。</p>
+        </li>
+    </ul>
+</div>
+<!--/平台优势-->
+<!--理财项目-->
+<div class="m-seasonFour-products">
+    <div class="g-wrap f-cf">
+        <!--新手项目-->
+        <div class="u-newCustomer-item" id="j-nc-item">
+            <a id="newC_aA" class="u-pl-wrap u-newCustomer-pic" >
+                <img id="newC_img" src="" alt="">
+                <span id="newC_round" class="u-ring-bg"></span>
+                <i></i>
+                <span class="u-pl-stat circliful" id="j-pl-stat2" data-dimension="160" data-fontsize="14" data-percent="" data-fgcolor="#e33f4a" data-bordersize="5" data-bgcolor="#eee" style="width: 160px;">
+                </span>
+            </a>
+            <div class="u-newCustomer-particulars">
+                <a id="newC_aB" class="u-newCustomer-itemNm f-fs16" href="/products/detail-989800431.html">
+                    <strong id="newC_prefixProjectName"></strong><em id="newC_suffixProjectName"></em><i id="newC_joinLease"></i>
+                </a>
+                <div class="u-newCustomer-info">
+                    <span class="u-newCustomer-data01">项目总额&nbsp;<span class="f-ff-rmb f-fs22">￥</span><em class="f-ff-amount f-fs28" id="newC_totalAmount"></em> </span>
+                    <em class="u-newCustomer-data">年化收益&nbsp;<em class="f-ff-amount f-fs28 f-fc-red2" id="newC_annualizedRate"></em></em>
+                    <strong class="u-newCustomer-days">
+                    收益天数
+                    <em class="f-ff-amount f-fs28" id="newC_earningsDays"></em><span class="f-fs18">天</span>
+                </strong>
+                </div>
+                <div class="u-newCustomer-process f-clear">
+                    <span id="newC_processBar"></span>
+                </div>
+                <div class="u-newCustomer-meta">
+                    <em>当前进度：<strong class="f-ff-ver" id="newC_process"></strong></em><span>剩余可投金额 <strong class="f-ff-ver" id="newC_balance"></strong> 元</span>
+                    <a id="newC_aC" href="" class="u-newCustomer-btn f-round f-fr"></a>
+                </div>
+            </div>
+            <div class="u-pbox-footer">
+            </div>
+        </div>
+    </div>
+    <!--常规项目-->
+    <div class="g-wrap f-cf">
+        <div class="m-product-box">
+            <div class="m-pbox-wrap">
+                <h3 class="u-pbox-title u-circle-12 f-text-overflow">
+                    <a id="rec_aA" href="">
+                        <em class="f-fl" id="rec_projectName"></em>
+                        <i id="rec_joinLease" class=""></i>
+                    </a>
+                </h3>
+                <div class="u-arrow-down">
+                    <i>◆</i>
+                    <span>◆</span>
+                </div>
+                <div class="m-pbox-main f-cf">
+                    <div class="u-pbox-thumbnail f-fl">
+                        <a id="rec_aB" href="" class="u-thumbnail-wrap"></a>
+                        <img id="rec_img" src="" width="120" height="120" alt="">
+                    </div>
+                    <div class="m-pbox-info f-fr">
+								<span class="u-pbox-data">
+									<span class="f-ff-rmb f-fs22">￥</span><em class="f-ff-amount f-fs38" id="rec_totalAmount"></em>
+									<br>项目总额
+								</span>
+                        <em class="u-pbox-data">
+                            <em id="rec_annualizedRate" class="f-ff-amount f-fs38 f-fc-red2"></em><span class="f-ff-amount f-fs22 f-fc-red2">%</span>
+                            <br>年化收益
+                        </em>
+                        <strong class="u-pbox-data">
+                            <em class="f-ff-amount f-fs38" id="rec_earningsDays"></em><span class="f-fs18">天</span>
+                            <br>收益天数
+                        </strong>
+                        <div class="u-pbox-process f-clear">
+                            <span class="f-bgc-red2" id="rec_processBar"></span>
+                        </div>
+                        <div class="u-pbox-meta">
+                            <em>当前进度：<span class="f-ff-ver" id="rec_process"></span></em>
+                            <span>剩余可投金额 <strong class="f-ff-ver" id="rec_balance"></strong> 元</span>
+                            <a id="rec_aC" href="" class="u-pbox-btn f-round f-bgc-red2 f-fr"></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="u-pbox-footer">
+            </div>
+        </div>
+    </div>
+</div>
+<!--/理财项目-->
+<!--二维码-->
+<div class="g-wrap u-seasonFour-recode f-pos-r">
+    <img src="/static/img/landing/seasonFour/seasonFour_recode.png" width="240" height="496"/>
+</div>
+<!--/二维码-->
+<!--有融网服务协议-->
+<div class="u-agreement-box f-dn" id="j-register-argreement">
+    <h3 class="f-fs18">有融网服务协议<i></i></h3>
+    <div>
+        <iframe src="" frameborder="0"></iframe>
+    </div>
+</div>
+<!--/有融网服务协议-->
+</div>
+<!-- /内容 -->
+<!-- 底部 -->
+<div class="g-ft">
+    <!-- 向导 -->
+    <div class="m-guide">
+        <div class="g-wrap g-grid-row">
+            <dl class="g-grid-3">
+                <dt><strong><a href="/post/about/index.html">认识有融</a></strong></dt>
+                <dd><a href="/post/about/index.html#j-grow-up">成长轨迹</a></dd>
+                <dd><a href="/post/about/index.html#j-theory">平台原理</a></dd>
+                <dd><a href="/post/about/index.html#j-why-us">平台优势</a></dd>
+                <dd><a href="/post/about/index.html#contactUs">联系有融</a></dd>
+            </dl>
+            <dl class="g-grid-3">
+                <dt><strong><a href="/post/subject/safetyAssurance.html">安全保障</a></strong></dt>
+            	<dd><a href="/post/subject/safetyAssurance.html#mini-nav1">项目安全</a></dd>
+            	<dd><a href="/post/subject/safetyAssurance.html#mini-nav2">资金安全</a></dd>
+            	<dd><a href="/post/subject/safetyAssurance.html#mini-nav3">技术安全</a></dd>
+            	<dd><a href="/post/subject/safetyAssurance.html#mini-nav4">法律保障</a></dd>
+            </dl>
+
+            <dl class="g-grid-4">
+                <dt>有融网微信公众号</dt>
+                <dd><img src="/static/img/v2/homepage/WeChat_twoDimensionCode.png" alt="有融网微信公众号"/></dd>
+            </dl>
+            <dl class="g-grid-4">
+                <dt>有融网APP</dt>
+                <dd><img src="/static/img/v2/homepage/APP_twoDimensionCode20151105.png" alt="有融网APP"/></dd>
+            </dl>
+            <dl class="g-grid-6 m-contact-info">
+                <dt><strong>全国服务热线</strong></dt>
+                <dd>
+                    <span class="f-ff-din f-lh-1em">400<i></i>025<i></i>6688</span>
+                    <br/>
+                                                                <em>工作日: 9:00-20:00</em>节假日: <em>9:30-18:00 </em>
+                                    </dd>
+                <dd><a class="u-qq-service u-circle-15" href="http://wpa.b.qq.com/cgi/wpa.php?ln=2&uin=4000266688"
+                       target="_blank"><i></i>在线客服</a></dd>
+            </dl>
+        </div>
+    </div>
+    <!-- /向导 -->
+    <div class="m-copyright">
+        <div class="g-wrap">&copy;&nbsp;2014-2016&nbsp;YRW.COM&nbsp;浙江小融网络科技股份有限公司 版权所有&nbsp;&nbsp;浙ICP备14032974号-2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ICP经营许可证：浙B2-20150596&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;理财有风险 投资需谨慎</div>
+    </div>
+    <div class="m-certification">
+        <div class="g-wrap f-cf">
+            <a class="u-jywzba" href="http://www.zca.gov.cn/query_details-0-16440.html " target="_blank"></a>
+            <a class="u-aqlm"  logo_type="business" href="http://v.pinpaibao.com.cn/authenticate/cert/?site=www.yrw.com&at=business" target="_blank">
+            </a>
+            <a class="u-kxwz" href="https://ss.knet.cn/verifyseal.dll?sn=e15012633010057509kqza000000&comefrom=trust&trustKey=dn&trustValue=www.yrw.com" target="_blank">
+            </a>
+            <a class="u-cxwz" id="___szfw_logo___" href="https://search.szfw.org/cert/l/CX20150126006502006601" target="_blank">
+            </a>
+            <a class="u-hyrz" href="http://si.trustutn.org/info?sn=169150603000188543452"  target="_blank">
+            </a>
+            <a class="u-wxrz" href="http://www.itrust.org.cn/yz/pjwx.asp?wm=1311322832" target="_blank">
+            </a>
+            <a class="u-ntaq" href="https://sealinfo.verisign.com/splash?form_file=fdf/splash.fdf&dn=www.yrw.com&lang=zh_cn" target="_blank">
+            </a>
+        </div>
+    </div>
+
+</div>
+<!-- /底部 -->
+
+
+    <script type="text/javascript">
+    var environment = env = {
+        globalPath: '',
+        globalDomain: 'https://www.yrw.com',
+        mGlobalDomain: 'http://m.yrw.com',
+        serverDate:  1468903834372,
+        aliyunPath: 'https://oss-cn-hangzhou.aliyuncs.com'
+    };
+    window.log=function(){};
+  var inverst_wait_time = 5;
+
+</script>
+<script src="/static/lib/js/base/lodash.js?v=compat1451287261500"></script>
+
+<script src="/static/lib/js/jq/jquery-1.11.1.min.js"></script>
+
+<script src="/static/lib/js/dialog-min.js"></script>
+
+<script src="/static/lib/js/validform.js"></script>
+
+
+<script src="/static/compress/js/common.js?v=1467712763413"></script>
+
+<script type="text/javascript" src="/static/lib/js/jq/jquery.circliful.min.js?v=1467712763413"></script>
+<script type="text/javascript" src="/static/compress/js/modules/register.js?v=1467712763413"></script>
+<script type="text/javascript" src="/static/compress/js/landing/seasonFour.js?v=1467712763413"></script>
+
+
+    <div style="display:none;">
+    <script type="text/javascript">
+                var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+        document.write(unescape("%3Cspan id='cnzz_stat_icon_1253600367'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s95.cnzz.com/z_stat.php%3Fid%3D1253600367' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+
+            <script type="text/javascript">
+        var _py = _py || [];
+        var _userId = "0";
+        var _source = "0";
+        var _pv = "0";
+        _py.push(['a', 'qJ..OIEiS_boFsG_SD2lEUB5nX']);
+        _py.push(['domain', 'stats.ipinyou.com']);
+        _py.push(['e', "{\"userId\":\"" + _userId + "\",\"source\":\"" + _source + "\"}"]);
+        _py.push(['pv', _pv]);
+        -function (d) {
+            var s = d.createElement('script'),
+                    e = document.body.getElementsByTagName('script')[0];
+            e.parentNode.insertBefore(s, e),
+                    f = 'https:' == location.protocol;
+            s.src = (f ? 'https' : 'http') + '://' + (f ? 'fm.ipinyou.com' : 'fm.p0y.cn') + '/j/adv.js';
+        }(document);
+    </script>
+    <noscript>
+        <img src="//stats.ipinyou.com/adv.gif?a=qJ..OIEiS_boFsG_SD2lEUB5nX&e=" style="display:none;"/>
+    </noscript>
+
+        <script>
+        _pro_track_id='4ad27d1a01547b3a9e04';
+    </script>
+    <script src="https://conversion.pro.cn/files/m.js"></script>
+    <img src="https://conversion.pro.cn/arrive/enter?accountID=4ad27d1a01547b3a9e04&conversionID=59968526dacc17f1b0df115484f3500b&info="></img>
+        
+        <script type='text/javascript'>(function(){document.getElementById('___szfw_logo___').oncontextmenu = function(){return false;}})();</script>
+
+            </div>
+</body>
+</html>
+
