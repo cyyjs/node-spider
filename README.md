@@ -2,7 +2,7 @@
 -----
 ### USE
 ``` js
-var Spider = require("../");
+var Spider = require("nodejs-spider");
 
 var oOptions = {
     domain: 'xx.com', //抓取网站的域名
